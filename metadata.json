@@ -1,0 +1,6 @@
+{
+  "name": "Astral Gem — 3D Tabletop RPG Dice Roller",
+  "description": "Physics-based 3D translucent gemstone dice roller on a carved walnut RPG tabletop with custom dice sides, multi-die throws, synthesized clatter audio, and roll history chronicles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
